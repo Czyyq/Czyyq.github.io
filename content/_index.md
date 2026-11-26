@@ -65,7 +65,7 @@ sections:
           - publications
         exclude_featured: false
     design:
-      view: compact
+      view: list
   - block: collection
     id: talks
     content:
@@ -125,3 +125,4 @@ sections:
         css_class: 'bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 text-white shadow-2xl'
         css_style: ''
 ---
+
