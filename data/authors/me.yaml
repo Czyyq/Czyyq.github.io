@@ -6,12 +6,15 @@ name:
   given: 宇奇
   family: 杨
   pronunciation: 'Yáng Yǔqí'
-  pronouns: 'she/her'
+pronouns: 'she/her'
 postnominals:
   - MD
 status:
   icon: "🟢"
 role: Associate Researcher
+avatar:
+  filename: avatar.jpg
+
 bio: |
   My research focuses on inherited metabolic disorders. I conduct basic and translational studies covering neonatal screening system development, novel screening technology innovation, disease molecular mechanisms and precision diagnosis, aiming to improve the early detection of inherited metabolic disorders and reduce the disease burden caused by birth defects.
 
@@ -42,7 +45,7 @@ languages:
     label: Fluent
 
 social:
-  - icon: academicons/ncbi
+  - icon: fas/database
     link: https://www.ncbi.nlm.nih.gov/myncbi/yuqi.yang.7/bibliography/public/
   - icon: envelope
     link: mailto:yangyuqi@njmu.edu.cn
