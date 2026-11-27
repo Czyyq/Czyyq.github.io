@@ -33,14 +33,15 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-       My research focuses on inherited metabolic disorders and newborn screening. I aim to explore the pathogenesis of metabolic diseases and improve early screening strategies for neonates. I welcome opportunities for academic exchange and collaboration.
+ - block: markdown
+  content:
+    title: '📚 My Research'
+    subtitle: ''
+    text: |-
+      My research focuses on inherited metabolic disorders and newborn screening. I aim to explore the pathogenesis of metabolic diseases and improve early screening strategies for neonates.
 
-       Please reach out to collaborate 😃
+      Please reach out to collaborate 😊
+
     design:
       columns: '1'
   - block: collection
