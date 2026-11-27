@@ -27,10 +27,18 @@ interests:
   - neonatal screening
 
 education:
-  - degree: MD
+  - degree: PhD
     institution: Jiangsu University
     start: "2024-09-01"
     end: ""
+  - degree: MMed
+    institution: Jiangsu University
+    start: "2013-09-01"
+    end: "2017-12-31"
+  - degree: BMed
+    institution: Jiangsu University
+    start: "2003-09-01"
+    end: "2008-07-31"
 
 experience:
   - role: Associate Researcher
