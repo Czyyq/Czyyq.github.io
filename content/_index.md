@@ -38,7 +38,8 @@ sections:
     title: '📚 My Research'
     subtitle: ''
     text: |-
-      My research focuses on inherited metabolic disorders and newborn screening. I aim to explore the pathogenesis of metabolic diseases and improve early screening strategies for neonates.
+      My research focuses on inherited metabolic disorders and newborn screening. I aim to explore the pathogenesis of metabolic diseases and improve early 
+      screening strategies for neonates.
 
       Please reach out to collaborate 😊
 
